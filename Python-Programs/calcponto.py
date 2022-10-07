@@ -1,0 +1,6 @@
+x1=int(input("X1> Digite o primeiro ponto: "))
+x2=int(input("X2> Digite o segundo ponto: "))
+y1=int(input("Y1: Digite o primeiro ponto: "))
+y2=int(input("Y2: Digite o segundo ponto: "))
+d=0.5**(((x2-x1)**2)+((y2-y1)**2))
+print("Resultado:",d)
