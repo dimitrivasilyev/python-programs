@@ -57,4 +57,4 @@ class Alg:
 Alg.code(string)
 Alg.decode(string)
 ```
-###### _All them are made by me:_   *dimitrivasilyev*
+_All them are made by me:_   *dimitrivasilyev*
